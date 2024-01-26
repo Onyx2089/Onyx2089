@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-I'm Garder500, a Web and mobile App developer
+I'm Onyx2089, a Web and mobile App developer
 
-### My actuals projects 
-- 🔭 Ketsuna the IA Bot
-- 🌱 Gazes Novel (Writing project)
+
 
 ### My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,bots,css,dotnet,rust,go,firebase,php,nodejs,nextjs,mysql,postgres,prisma,mongodb,vue,react,nuxtjs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,bootstrap,tailwind,js,jquery,nodejs,nextjs,ts,react,vue,php,nginx,laravel,symfony)](https://skillicons.dev)
 
 ### My Githubs Stats
 
